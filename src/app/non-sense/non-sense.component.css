@@ -1,0 +1,5 @@
+#holder {
+    display: grid;
+    grid-template-rows: auto, auto;
+    -ms-grid-row-align: center;
+}
